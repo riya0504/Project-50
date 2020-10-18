@@ -1,0 +1,25 @@
+H1{
+    COLOR : rgba(10, 24, 11, 0.678);
+    text-align:center;
+}
+
+.header{
+    background-color:rgba(194, 168, 84, 0.8);
+    display:flex;
+    justify-content: space-between;
+} 
+.grid{
+    display:box;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    background-color:rgba(150, 168, 168, 0.699);
+}
+.footer{
+    display:flex;
+    justify-content: flex-start;
+    
+}
+H2{
+    COLOR : rgba(35, 74, 78, 0.733);
+    text-align:left;
+}
